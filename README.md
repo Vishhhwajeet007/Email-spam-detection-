@@ -1,4 +1,3 @@
-# Email-spam-detection-
 <!-- PROJECT TITLE -->
 <h1 align="center">Email Spam Detection</h1>
 
